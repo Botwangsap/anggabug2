@@ -5,9 +5,9 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.autorecording = false //status auto merekam ( auto record )
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
-global.autoavailable = false //status online (online)
+global.autoavailable = true //status online (online)
 
 global.wlcm = []
 global.ntnsfw = []
@@ -21,9 +21,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.youtube = 'https://www.instagram.com/anggatzi123' // ubah aia
+global.ig = 'https://www.instagram.com/anggatzi123' // ubah aja
+global.email = 'AnggaKz@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Anggazyy' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -31,12 +31,12 @@ global.botname = 'Anggazyy' //ubah jadi nama bot mu, note tanda ' gausah di hapu
 global.footer = 'Anggazyy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62882021734861'] // ubah aja pake nomor lu
-global.premium = ['6285795841048'] // ubah aja pake nomor lu
+global.owner = ['79252816356'] // ubah aja pake nomor lu
+global.premium = ['79252816356'] // ubah aja pake nomor lu
 global.packname = 'ANGGAZYY' // ubah aja
 global.ownerr = ['AnggaztySilenty'] // ubaha aja
 global.author = 'ANGGAZYY' //ubah aja
-global.linkgrupss = "https://chat.whatsapp.com/KoEzXGdj9CQA3QzoEjyNlc"
+global.linkgrupss = "https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p"
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
