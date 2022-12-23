@@ -26,16 +26,16 @@ global.ig = 'https://www.instagram.com/anggatzi123' // ubah aja
 global.email = 'AnggaKz@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Anggazyy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Anggazyy' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Anggazyy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'AnggaKz🤖👿🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'AnggaKz🤖👿🔥' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'AnggaKz🤖👿🔥' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['79252816356'] // ubah aja pake nomor lu
-global.premium = ['79252816356'] // ubah aja pake nomor lu
-global.packname = 'ANGGAZYY' // ubah aja
+global.owner = ['79969802753'] // ubah aja pake nomor lu
+global.premium = ['79969802753'] // ubah aja pake nomor lu
+global.packname = 'ANGGAKz🤖🥰🤑' // ubah aja
 global.ownerr = ['AnggaztySilenty'] // ubaha aja
-global.author = 'ANGGAZYY' //ubah aja
+global.author = 'Bot Khusus Bug atau Warmode👿🔥' //ubah aja
 global.linkgrupss = "https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p"
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
